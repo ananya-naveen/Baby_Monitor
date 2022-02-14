@@ -1,0 +1,42 @@
+body{
+    background-color: #88E8F2;
+    text-align: center;
+}
+
+#heading{
+    width: 100%;
+    background-color: #F28DB2;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+
+#note{
+    background-color: #F2C9E0;
+    color: #D96690;
+    font-weight: bolder;
+}
+
+#detect{
+    font-size: 18px;
+    background-color: #589ab4;
+    color: white;
+    font-family:cursive;
+}
+
+#status{
+    font-size: 18px;
+    background-color: #589ab4;
+    color:white;
+    font-family:cursive;
+}
+
+canvas{
+    border-radius: 10px;
+    margin-top: 30px;
+    box-shadow: 5px 5px 5px black;
+    border: 2px solid white;
+}
